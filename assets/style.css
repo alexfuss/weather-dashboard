@@ -1,0 +1,21 @@
+body {
+    font-family: Heebo, sans-serif;
+}
+
+.card-main {
+    background-color: rgb(216, 215, 215);
+    border: 1.5px solid black;
+}
+
+.card-forecast {
+    margin: 1rem;
+    border: 1.5px solid black;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
