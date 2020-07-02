@@ -1,5 +1,6 @@
 # weather-dashboard
-URL: This link leads to a weather dashboard that allows a user to see the upcoming forecast for any city of his or her choice. 
+URL: https://alexfuss.github.io/weather-dashboard/  
+This link leads to a weather dashboard that allows a user to see the upcoming forecast for any city of his or her choice. 
 
 # User Story
 AS A traveler
